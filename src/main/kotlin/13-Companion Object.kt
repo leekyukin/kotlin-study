@@ -1,3 +1,5 @@
+import java.sql.DriverManager.println
+
 // Companion Object
 // class 의 instance 기능은 그대로 사용하면서
 // instance 간의 공용으로 사용할 속성과 함수들을 별도로 만드는 기능
